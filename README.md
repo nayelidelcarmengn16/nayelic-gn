@@ -7,14 +7,20 @@ nayelixook@gmail.com
  
 ### SKILLS
 Microsoft Excel 
+
 Python
+
 SQL-Queries
+
 Scikitlearn
 
-Critical Thinking Problem-solving skills Empathy
+Critical Thinking
+
+Problem-solving skills
 Disciplined
+
 self-taught person
-Highly responsible and reliable
+
 
 ### Languages
 

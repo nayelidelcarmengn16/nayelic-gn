@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+Contact:
 e-mail:
-nayelidelcarmen.gn@gmail.com	
+nayelixook@gmail.com
 
  
-SKILLS
+### SKILLS
 Microsoft Excel 
 Python
 SQL-Queries
@@ -16,13 +16,13 @@ self-taught person
 Highly responsible and reliable
 
 
-Languages
+### Languages
 Intermediate English
 Native Spanish
 
  
 
-Employment History
+### Employment History
 
 Feb 2017 — Present
 Guanajuato
@@ -44,7 +44,7 @@ Courses Taught: Probability, Statistics, Numerical Methods, Linear Algebra, and 
 
 
 
-Education
+### Education
  
 Jun 2022	Data Camp
 Data Scientist with Python Track

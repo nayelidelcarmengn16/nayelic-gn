@@ -17,6 +17,7 @@ Highly responsible and reliable
 
 
 ### Languages
+
 Intermediate English
 Native Spanish
 

@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Nayeli 👋
+
 Contact:
 e-mail:
 nayelixook@gmail.com

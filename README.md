@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<!--
-**nayelic-gn/nayelic-gn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+e-mail:
+nayelidelcarmen.gn@gmail.com	
 
-Nayeli González Novelo
-Data Scientist /Data analyst
-nayelidelcarmen.gn@gmail.com	4731180406
  
 SKILLS
 Microsoft Excel 

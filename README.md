@@ -15,10 +15,10 @@ Disciplined
 self-taught person
 Highly responsible and reliable
 
-
-### Languages
+### Languages
 
 Intermediate English
+
 Native Spanish
 
  

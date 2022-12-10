@@ -66,4 +66,4 @@ M.A. in Mathematics
 
 Aug 2004 — Jul 2009	Universidad Autónoma de Yucatán
 B.S. in Mathematics
-![image](https://user-images.githubusercontent.com/106780013/206830493-54b88f16-8267-4f13-9455-8e45873d591a.png)
+

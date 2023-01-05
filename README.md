@@ -1,8 +1,7 @@
 ### Hi there, I'm Nayeli 👋
 
 Contact:
-e-mail:
-nayelixook@gmail.com
+inkedin.com/in/nayelic-gn
 
  
 ### SKILLS

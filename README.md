@@ -1,7 +1,7 @@
 ### Hi there, I'm Nayeli 👋
 
 Contact:
-inkedin.com/in/nayelic-gn
+linkedin.com/in/nayelic-gn
 
  
 ### SKILLS

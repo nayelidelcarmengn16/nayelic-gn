@@ -50,7 +50,7 @@ Silao, Guanajuato.
 Math Professor at UPIIG, Instituto Politécnico Nacional
 •	Integrated innovative activities to analyze and understand numerical methods algorithms and statistical methods.
 •	Incorporated various methods of teaching to ensure students are actively engaged during class.
-Courses Taught: Probability, Statistics, Numerical Methods, Linear Algebra, and Calculus.
+Courses Taught: Probability, Statistics, Numerical Methods, Linear Algebra, Calculus, Differential Equations.
 
 
 
@@ -66,15 +66,20 @@ Mexico
  
 Universidad Internacional de la Rioja
 M.A. in Data analysis and Visualization
- 
+Project. Business Intelligence Models applied to Math Virtual Tutoring.
  
 Aug 2009 — Sep 2011
-Guanajuato
+Guanajuato, México.
  
 Centro de Investigación en Matemáticas
-M.A. in Mathematics
+M.A. in Mathematics.
+General postgraduate examinations: Mathematical analysis, Abstract
+Algebra, Linear algebra, Differential Equations and Complex Variable
+Analysis.
  
 
-Aug 2004 — Jul 2009	Universidad Autónoma de Yucatán
+Aug 2004 — Jul 2009	Universidad Autónoma de Yucatán.
 B.S. in Mathematics
+Tesis. Localización de álgebras triangulares hereditarias.
+
 

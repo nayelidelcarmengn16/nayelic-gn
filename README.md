@@ -30,6 +30,11 @@ Native Spanish
  
 
 ### Employment History
+2022. Nicxa Group. Fast food franchise company (Burger King-KFC-Pizza hut-Bisquets Obregon). 
+Research design for the analysis and modeling of the phenomenon of absenteeism and staff turnover.
+
+2021. Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
+Business Intelligence Data Scientist.
 
 Feb 2017 — Present
 Guanajuato
@@ -61,7 +66,7 @@ May 2019 — Sep 2021
 Mexico
  
 Universidad International de la Rioja
-M.A. in data analysis and visualization
+M.A. in Data analysis and Visualization
  
  
 Aug 2009 — Sep 2011

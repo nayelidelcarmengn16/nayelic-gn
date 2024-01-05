@@ -33,7 +33,7 @@ Native Spanish
 2022. Nicxa Group. Fast food franchise company (Burger King-KFC-Pizza hut-Bisquets Obregon). 
 Research design for the analysis and modeling of the phenomenon of absenteeism and staff turnover.
 
-2021. Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
+2021 Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
 Business Intelligence Data Scientist.
 
 2017 — Present

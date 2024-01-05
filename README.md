@@ -33,9 +33,9 @@ Native Spanish
 
 
 2022-2023 Data Analyst Experience.
+
 Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
 Business Intelligence Data Scientist.
-
 Nicxa Group. Fast food franchise company (Burger King-KFC-Pizza hut-Bisquets Obregon). 
 Research design for the analysis and modeling of the phenomenon of absenteeism and staff turnover.
 

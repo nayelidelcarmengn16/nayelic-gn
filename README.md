@@ -1,8 +1,4 @@
 # Hi there, I'm Nayeli 👋
-
-Contact:
-
-
  
 ## SKILLS
 Microsoft Excel 
@@ -37,6 +33,7 @@ Native Spanish
 
 Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
 Business Intelligence Data Scientist.
+
 Nicxa Group. Fast food franchise company (Burger King-KFC-Pizza hut-Bisquets Obregon). 
 Research design for the analysis and modeling of the phenomenon of absenteeism and staff turnover.
 
@@ -65,6 +62,12 @@ Data Scientist with Python Track
 Universidad Internacional de la Rioja
 M.A. in Data analysis and Visualization
 Project. Business Intelligence Models applied to Math Virtual Tutoring.
+
+### Aug 2012 - Sep 2016
+Centro de Investigación en Matemáticas
+PhD Mathematics.
+Tesis: Invariantes antisiméticros de un álgebra
+
  
 ### Aug 2009 — Sep 2011 
 Centro de Investigación en Matemáticas

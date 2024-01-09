@@ -30,6 +30,7 @@ Native Spanish
 
 
 ### 2022-2023 Data Analyst Experience.
+Mérida, Yucatán.
 
 Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
 Business Intelligence Data Scientist.
@@ -45,9 +46,9 @@ Guanajuato
 •	Track students progress, evaluate projects and give feedback in a respectful manner.
 Courses Taught: Applied statistics for decision making, Engineering Mathematics and Calculus.
 
-### Sep 2017 — Dec 2021
+### Sep 2017 — Dec 2021 Math Professor at UPIIG, Instituto Politécnico Nacional
 Silao, Guanajuato.
-Math Professor at UPIIG, Instituto Politécnico Nacional
+
 •	Integrated innovative activities to analyze and understand numerical methods algorithms and statistical methods.
 •	Incorporated various methods of teaching to ensure students are actively engaged during class.
 Courses Taught: Probability, Statistics, Numerical Methods, Linear Algebra, Calculus, Differential Equations.
@@ -73,7 +74,7 @@ Tesis: Invariantes antisiméticros de un álgebra
 Centro de Investigación en Matemáticas
 M.A. in Mathematics.
 General postgraduate examinations: Mathematical analysis, Abstract
-Algebra, Linear algebra, Differential Equations and Complex Variable
+Algebra, Linear algebra, Differential Equations Mathematical Analysis and Complex Variable
 Analysis.
  
 

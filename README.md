@@ -73,8 +73,8 @@ Tesis: Invariantes antisiméticros de un álgebra
 ### Aug 2009 — Sep 2011 
 Centro de Investigación en Matemáticas
 M.A. in Mathematics.
-General postgraduate examinations: Mathematical analysis, Abstract
-Algebra, Linear algebra, Differential Equations Mathematical Analysis and Complex Variable
+General postgraduate examinations: Mathematical Analysis, Abstract
+Algebra, Linear algebra, Differential Equations and Complex Variable
 Analysis.
  
 

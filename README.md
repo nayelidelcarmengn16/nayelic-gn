@@ -80,6 +80,6 @@ Analysis.
 ### Aug 2004 — Jul 2009	
 Universidad Autónoma de Yucatán.
 B.Sc. in Mathematics
-Tesis. Localización de álgebras triangulares artinianas hereditarias.
+Tesis. Localización de Álgebras Artinianas Tiangulares Hereditarias.
 
 

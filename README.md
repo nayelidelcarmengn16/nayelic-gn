@@ -30,7 +30,6 @@ Native Spanish
 
 
 ### 2022-2023 Data Analyst Experience.
-Mérida, Yucatán.
 
 Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
 Business Intelligence Data Scientist.
@@ -67,19 +66,20 @@ Project. Business Intelligence Models applied to Math Virtual Tutoring.
 ### Aug 2012 - Sep 2016
 Centro de Investigación en Matemáticas
 PhD Mathematics.
-Tesis: Invariantes antisiméticros de un álgebra
+Tesis: Invariantes antisimétricos de un álgebra
 
  
 ### Aug 2009 — Sep 2011 
 Centro de Investigación en Matemáticas
-M.A. in Mathematics.
+M.Sc. in Mathematics.
 General postgraduate examinations: Mathematical Analysis, Abstract
 Algebra, Linear algebra, Differential Equations and Complex Variable
 Analysis.
  
 
-### Aug 2004 — Jul 2009	Universidad Autónoma de Yucatán.
-B.S. in Mathematics
+### Aug 2004 — Jul 2009	
+Universidad Autónoma de Yucatán.
+B.Sc. in Mathematics
 Tesis. Localización de álgebras triangulares artinianas hereditarias.
 
 

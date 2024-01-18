@@ -34,7 +34,7 @@ Native Spanish
 Bepensa. Southeast Mexico Bottling Company (The Coca Cola Company Bottling License).
 Business Intelligence Data Scientist.
 
-Nicxa Group. Fast food franchise company (Burger King-KFC-Pizza hut-Bisquets Obregon). 
+Nicxa Group. Fast food franchise company (Burger King-KFC-Pizza Hut-Bisquets Obregon). 
 Research design for the analysis and modeling of the phenomenon of absenteeism and staff turnover.
 
 ### 2017 — 2023 Virtual Teacher at Universidad Virtual del Estado de Guanajuato

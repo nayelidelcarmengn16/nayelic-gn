@@ -59,27 +59,30 @@ Data Scientist with Python Track
 
  
 ### May 2019 — Sep 2021
-Universidad Internacional de la Rioja
+
 M.A. in Data analysis and Visualization
-Project. Business Intelligence Models applied to Math Virtual Tutoring.
+Project:  Business Intelligence Models applied to Math Virtual Tutoring.
+Universidad Internacional de la Rioja
 
 ### Aug 2012 - Sep 2016
-Centro de Investigación en Matemáticas
+
 PhD Mathematics.
-Tesis: Invariantes antisimétricos de un álgebra
+Thesis: Invariantes antisimétricos de un álgebra
+Centro de Investigación en Matemáticas
 
  
 ### Aug 2009 — Sep 2011 
-Centro de Investigación en Matemáticas
+
 M.Sc. in Mathematics.
 General postgraduate examinations: Mathematical Analysis, Abstract
 Algebra, Linear algebra, Differential Equations and Complex Variable
 Analysis.
+Centro de Investigación en Matemáticas
  
 
 ### Aug 2004 — Jul 2009	
-Universidad Autónoma de Yucatán.
-B.Sc. in Mathematics
-Tesis. Localización de Álgebras Artinianas Tiangulares Hereditarias.
 
+B.Sc. in Mathematics
+Thesis. Localización de Álgebras Artinianas Hereditarias  Tiangulares .
+Universidad Autónoma de Yucatán.
 

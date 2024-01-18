@@ -60,7 +60,7 @@ Data Scientist with Python Track
  
 ### May 2019 — Sep 2021
 
-M.A. in Data analysis and Visualization
+Master in Data analysis and Visualization
 Project:  Business Intelligence Models applied to Math Virtual Tutoring.
 Universidad Internacional de la Rioja
 
